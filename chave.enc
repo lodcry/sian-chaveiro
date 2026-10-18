@@ -1,0 +1,12 @@
+{
+  "v": 1,
+  "alg": "aes-256-gcm",
+  "kdf": "scrypt",
+  "N": 32768,
+  "r": 8,
+  "p": 1,
+  "salt": "0aN3DituaQdIjISdTyl6Ig==",
+  "iv": "S5B6iNnH66VQK2SS",
+  "tag": "xZAIu3szb2MvqxmFE7o9fg==",
+  "dados": "R9wxpRypLLJxejs3lwDAKb/CP4oaOn+p2NRPuWWt//479BbAe/WmEHIby2cokhdhQM14Tl9gC85ngOneOuZ8s7+u7u0DxbtLYhR0/novri//jGzjg3Y0Ntv8I2zb2rZ1SEfT9asapQnzTAwl79CWVamLqeALrU/EUsWg9J4eSw=="
+}
